@@ -1,0 +1,123 @@
+header
+{
+    
+    margin-top: 65px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #D7D7D7;
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}   
+
+
+
+ul{
+    list-style: none;
+}
+
+ul li 
+{
+    display: inline-block;
+    padding: 22px;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.contenedor{
+    background-color: #F2F2F2;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+}
+
+nav
+{ 
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+img
+{
+    max-width: 315px;
+    max-height: 317px;
+    
+}
+
+.imagen{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 22px;
+    text-align: center;
+
+}
+
+footer
+{
+    background-color: #F2F2F2;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 60px;
+    text-align: center;
+}
+
+.tabla
+{   
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 120px;
+    text-align: center; 
+    align-items: center;
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+  } 
+
+  .tabla2
+  {
+    padding-left: 175px;
+    padding-right: 175px;
+    
+  }
+
+  .tabla1
+  {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  table
+  {
+    margin: auto;   
+  }
+
+  .lista
+  {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 120px;
+    
+  }
+
+  ol li
+  {
+    list-style: disc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;    
+  }
